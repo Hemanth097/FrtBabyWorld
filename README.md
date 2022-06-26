@@ -6,21 +6,25 @@ and this page is completely responsive
 
 
 ### Home Page (Desktop view) 
-![image](https://user-images.githubusercontent.com/64942691/175787297-5cf8a8bb-39fd-4ac9-a0f2-a677527992c8.png)
-![image](https://user-images.githubusercontent.com/64942691/175818139-f036e76f-c442-4e9a-aa44-9333c221b456.png)
-![image](https://user-images.githubusercontent.com/64942691/175787316-7cbb30a8-72fc-4316-a9a7-49761a6b7829.png)
-![image](https://user-images.githubusercontent.com/64942691/175787389-8ad121ca-2c37-4058-8138-4dccac2cc485.png)
-![image](https://user-images.githubusercontent.com/64942691/175787394-56e8eec4-224e-45ce-af91-f05ee57d969f.png)
-![image](https://user-images.githubusercontent.com/64942691/175787398-0af75908-daca-424b-9030-716d75e494e8.png)
+![image](https://user-images.githubusercontent.com/64942691/175818342-41f93354-d10c-45de-91e5-9375aae54e41.png)
+![image](https://user-images.githubusercontent.com/64942691/175818355-a24eda5d-50b0-4ef3-b76e-17e027cfa5c5.png)
+![image](https://user-images.githubusercontent.com/64942691/175818358-e68a768f-c76a-494a-a522-9e1bc882f530.png)
+![image](https://user-images.githubusercontent.com/64942691/175818364-3ce6e5ad-aa39-46de-bd6e-0ee380454a18.png)
+![image](https://user-images.githubusercontent.com/64942691/175818369-49d101b5-269e-4ead-80d7-a4df081f2c17.png)
+![image](https://user-images.githubusercontent.com/64942691/175818376-9839ba90-1066-4ba7-a7db-3013e7df67e5.png)
+![image](https://user-images.githubusercontent.com/64942691/175818384-5612ec12-0b9a-4472-80f1-81719fe0e285.png)
+
 
 ### Products page
-![image](https://user-images.githubusercontent.com/64942691/175787416-6344cc36-20e0-4169-bbd2-ddc7766110ce.png)
+![image](https://user-images.githubusercontent.com/64942691/175818416-9e6787b3-f45a-4453-a532-3b59233332d2.png)
+![image](https://user-images.githubusercontent.com/64942691/175818430-b8d551fe-0d62-4166-ae08-7e47eda7d428.png)
+
 
 ### cart page
 ![image](https://user-images.githubusercontent.com/64942691/175787422-75bd82f5-4d7f-4561-b1d8-c3a86db71068.png)
 
 ### contact us page
-![image](https://user-images.githubusercontent.com/64942691/175818182-3c404707-8e08-43f3-bb86-500e84b290bc.png)
+![image](https://user-images.githubusercontent.com/64942691/175818444-69b48e9c-3d8e-43fe-a23d-0d80dcfcc1b8.png)
 
 
 
