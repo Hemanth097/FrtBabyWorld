@@ -25,7 +25,6 @@ nav ul{
 
 nav ul li{
 	display: inline-block;
-	
 	padding: 10px; 
 }
 
@@ -197,6 +196,7 @@ small{
 	box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
 	cursor: pointer;
 	transition: transform 0.5s;
+	min-height: 320px;
 
 }
 
